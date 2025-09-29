@@ -1,6 +1,10 @@
 
 # Landing Page GTA V
 
+![Prévia do Projeto](src/imagens/preview.png)
+
+[![Assista ao vídeo](src/imagens/video-thumb.png)](src/videos/demo.mp4)
+
 Este projeto é uma landing page para o jogo Grand Theft Auto V, desenvolvida como parte do curso da Alura.
 
 ## 🚀 Tecnologias Utilizadas
